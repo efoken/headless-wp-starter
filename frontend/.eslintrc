@@ -1,0 +1,13 @@
+{
+  "root": true,
+  "extends": ["airbnb-typescript", "prettier", "prettier/react", "prettier/@typescript-eslint"],
+  "env": {
+    "browser": true,
+    "node": true,
+    "jest": true
+  },
+  "rules": {
+    "jsx-a11y/anchor-is-valid": "off",
+    "react/prop-types": "off"
+  }
+}

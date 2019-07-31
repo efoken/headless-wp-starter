@@ -1,0 +1,5 @@
+{
+    "require": {
+        "roots/wp-password-bcrypt": "^1.0"
+    }
+}
